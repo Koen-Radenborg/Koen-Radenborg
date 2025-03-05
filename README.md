@@ -7,8 +7,8 @@ Ik ben een front-end developer in opleiding en studeer Software Development aan 
 
 🚀 Leuke projecten:
 
-- 🕵️‍♂️ [Escape-Room webapp](https://github.com/TechniekCollegeRotterdam/project-escaperoom)– Gebouwd in React  
-- 🤖 [Discord-Bot](https://github.com/Koen-Radenborg/Python) – Geprogrammeerd in Python  
+- 🕵️‍♂️ [Pokemon Themed Escape-Room webapp](https://github.com/TechniekCollegeRotterdam/project-escaperoom) – Gebouwd in React  
+- 🤖 [Discord App](https://github.com/Koen-Radenborg/Python) – Geprogrammeerd in Python  
 - 🎨 [Portfolio](https://github.com/Koen-Radenborg/Portfolio) – Mijn persoonlijke website in React
 
   
