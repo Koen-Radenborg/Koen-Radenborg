@@ -1,5 +1,21 @@
-# 💫 About Me:
-👋 Hey, welkom op mijn GitHub!<br>Ik ben een front-end developer met een passie voor React en alles wat daarbij komt kijken. Ik werk met JavaScript, HTML, CSS, Tailwind en experimenteer momenteel met React Native. Af en toe duik ik ook in Python voor leuke side-projects.<br><br>💡 Waar ik nu aan werk: Ik ben bezig met het verbeteren van mijn React Native skills door een mobiele app te bouwen.<br><br>❓ Waar je me iets over kunt vragen: Front-end development, React, Tailwind, of hoe je een Discord-Bot maakt in Python!<br><br>🦆 Leuk feitje: Ik heb een ongezonde liefde voor eenden. Vraag me ernaar en ik kan er verrassend lang over praten.<br><br>🤝 Samenwerken? Ik sta altijd open voor interessante projecten en het delen van kennis. Stuur gerust een bericht als je een tof idee hebt!
+👋 Hey, welkom op mijn GitHub!
+Ik ben een front-end developer in opleiding en studeer Software Development aan het Techniek College Rotterdam (TCR). Mijn focus ligt op React, maar ik werk ook met JavaScript, HTML, CSS, Tailwind en experimenteer momenteel met React Native. Af en toe duik ik in Python voor leuke side-projects.
+
+💡 Waar ik nu aan werk: Ik ben bezig met het verbeteren van mijn React Native skills door een mobiele app te bouwen.
+
+❓ Waar je me iets over kunt vragen: Front-end development, React, Tailwind, of hoe je een Discord-Bot maakt in Python!
+
+🚀 Leuke projecten:
+
+- 🕵️‍♂️ [Escape-Room webapp](https://github.com/TechniekCollegeRotterdam/project-escaperoom)– Gebouwd in React  
+- 🤖 [Discord-Bot](https://github.com/Koen-Radenborg/Python) – Geprogrammeerd in Python  
+- 🎨 [Portfolio](https://github.com/Koen-Radenborg/Portfolio) – Mijn persoonlijke website in React
+
+  
+🦆 Leuk feitje: Ik heb een ongezonde liefde voor eenden. Vraag me ernaar en ik kan er verrassend lang over praten.
+
+🤝 Samenwerken? Ik sta altijd open voor interessante projecten en het delen van kennis. Stuur gerust een bericht als je een tof idee hebt!
+
 
 
 # 💻 Tech Stack:
