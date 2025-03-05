@@ -1,3 +1,5 @@
+![Banner](Kitty!!.jpg)
+
 👋 Hey, welkom op mijn GitHub!
 Ik ben een front-end developer in opleiding en studeer Software Development aan het Techniek College Rotterdam (TCR). Mijn focus ligt op React, maar ik werk ook met JavaScript, HTML, CSS, Tailwind en experimenteer momenteel met React Native. Af en toe duik ik in Python voor leuke side-projects.
 
